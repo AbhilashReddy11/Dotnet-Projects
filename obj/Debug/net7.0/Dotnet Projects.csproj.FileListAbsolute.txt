@@ -1,0 +1,15 @@
+/home/yennapu.abhilash/Desktop/Dotnet Projects/bin/Debug/net7.0/Dotnet Projects
+/home/yennapu.abhilash/Desktop/Dotnet Projects/bin/Debug/net7.0/Dotnet Projects.deps.json
+/home/yennapu.abhilash/Desktop/Dotnet Projects/bin/Debug/net7.0/Dotnet Projects.runtimeconfig.json
+/home/yennapu.abhilash/Desktop/Dotnet Projects/bin/Debug/net7.0/Dotnet Projects.dll
+/home/yennapu.abhilash/Desktop/Dotnet Projects/bin/Debug/net7.0/Dotnet Projects.pdb
+/home/yennapu.abhilash/Desktop/Dotnet Projects/obj/Debug/net7.0/Dotnet Projects.csproj.AssemblyReference.cache
+/home/yennapu.abhilash/Desktop/Dotnet Projects/obj/Debug/net7.0/Dotnet Projects.GeneratedMSBuildEditorConfig.editorconfig
+/home/yennapu.abhilash/Desktop/Dotnet Projects/obj/Debug/net7.0/Dotnet Projects.AssemblyInfoInputs.cache
+/home/yennapu.abhilash/Desktop/Dotnet Projects/obj/Debug/net7.0/Dotnet Projects.AssemblyInfo.cs
+/home/yennapu.abhilash/Desktop/Dotnet Projects/obj/Debug/net7.0/Dotnet Projects.csproj.CoreCompileInputs.cache
+/home/yennapu.abhilash/Desktop/Dotnet Projects/obj/Debug/net7.0/Dotnet Projects.dll
+/home/yennapu.abhilash/Desktop/Dotnet Projects/obj/Debug/net7.0/refint/Dotnet Projects.dll
+/home/yennapu.abhilash/Desktop/Dotnet Projects/obj/Debug/net7.0/Dotnet Projects.pdb
+/home/yennapu.abhilash/Desktop/Dotnet Projects/obj/Debug/net7.0/Dotnet Projects.genruntimeconfig.cache
+/home/yennapu.abhilash/Desktop/Dotnet Projects/obj/Debug/net7.0/ref/Dotnet Projects.dll
